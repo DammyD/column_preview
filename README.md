@@ -34,9 +34,9 @@ About the media query part. I am finding it difficult to get the mobile version
 # Author
 Blessing Dawodu <ibukunoluwadawodu@gmail.com>
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@DammyD](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://imaginative-cheesecake-b84d5f.netlify.app/)
+- Frontend Mentor - [@DammyD](https://www.frontendmentor.io/profile/Blessing Dawodu)
+- Twitter - [@IbukunDawodu](https://www.twitter.com/IbukunDawodu)
 
 # Acknowledgments
 I wnat to say a very big thank you to frontend mentor.io form making this site available and accessible to sharpen my knowledge by building projects and 
